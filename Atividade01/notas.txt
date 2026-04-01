@@ -1,0 +1,8 @@
+João,Matemática,8.5
+Maria,Matemática,9.0
+João,História,7.0
+Pedro,Matemática,6.0
+Maria,História,9.5
+João,Geografia,9.0
+Pedro,História,5.5
+Maria,Geografia,10.0
